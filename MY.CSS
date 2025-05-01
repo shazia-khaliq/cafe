@@ -1,0 +1,23 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  .navbar-brand span {
+    color: #6f4e37; 
+  }
+  
+  .navbar .nav-link {
+    color: #4b3832;
+    font-weight: 500;
+    margin-left: 15px;
+  }
+  
+  .navbar .nav-link:hover {
+    color: #a0522d;
+  }
+  
+  .card-title {
+    color: #6f4e37;
+    font-weight: 600;
+  }
+  
